@@ -1,4 +1,4 @@
-# NewInstanceOfApplication
+# New Instance of Application
 Automator Service Script to give you a Service to open a new instance of an application
 
 This script was written by Arne Heier
